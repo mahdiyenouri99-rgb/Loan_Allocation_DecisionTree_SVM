@@ -76,11 +76,7 @@ Additionally, a **comparative error analysis** is performed by:
 - `Loan_Classification.ipynb`  
   Complete Jupyter notebook containing preprocessing, training, evaluation, and analysis
 
-- `Dataset.csv`  
-  Input dataset used for training and evaluation
 
-- `tree.dot`  
-  Exported visualization of the trained decision tree
 
 ---
 
